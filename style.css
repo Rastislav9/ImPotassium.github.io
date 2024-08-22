@@ -1,0 +1,168 @@
+body{
+    background-color: #f3dddd;
+}
+
+#myH3{
+    color:#8B0000;
+}
+
+#myInput{
+    width: 300px;
+    height: 20px;
+}
+
+#myButton{
+    width: 100px;
+    height: 27px;
+    cursor: pointer;
+    transition: background-color 0.85s;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border-radius: 7px;
+    border-color: rgba(9, 63, 70, 0.644);
+}
+
+#myButton:hover{
+    background-color: rgb(117, 5, 5);
+}
+
+#mySend{
+    width: 100px;
+    height: 27px;
+    cursor: pointer;
+    transition: background-color 0.85s;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border-radius: 7px;
+    border-color: rgba(9, 63, 70, 0.644);
+}
+
+#mySend:hover{
+    background-color: rgb(117, 5, 5);
+}
+
+#myDeliver{
+    width: 100px;
+    height: 27px;
+    cursor: pointer;
+    transition: background-color 0.85s;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border-radius: 7px;
+    border-color: rgba(9, 63, 70, 0.644);
+}
+
+#myDeliver:hover{
+    background-color: rgb(117, 5, 5);
+}
+
+#my5{
+    width: 100px;
+    height: 27px;
+    cursor: pointer;
+    transition: background-color 0.85s;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border-radius: 7px;
+    border-color: rgba(9, 63, 70, 0.644);
+}
+
+#my5:hover{
+    background-color: rgb(117, 5, 5);
+}
+
+#myImg{
+    width: 320px;
+}
+
+#addButton{
+    width: 100px;
+    height: 27px;
+    cursor: pointer;
+    transition: background-color 0.85s;
+    color: white;
+    background-color: black;
+    border-radius: 7px;
+    border-color: rgba(9, 63, 70, 0.644);
+}
+
+#addButton:hover{
+    background-color:rgb(117, 5, 5);
+}
+
+#myMagic{
+    position: absolute;
+    top: 2593px;
+    left: 1380px;
+    width: 100px;
+    height: 27px;
+    cursor: pointer;
+    transition: background-color 0.85s;
+    color: white;
+    background-color: black;
+    border-radius: 7px;
+    border-color: rgba(9, 63, 70, 0.644);
+}
+
+#myMagic:hover{
+    background-color:rgb(117, 5, 5);
+}
+
+#showListButton{
+    position: absolute;
+    top: 3669px;
+    left: 986px;
+    width: 100px;
+    height: 37px;
+    cursor: pointer;
+    transition: background-color 0.85s;
+    color: white;
+    background-color: black;
+    border-radius: 7px;
+    border-color: rgba(9, 63, 70, 0.644);
+}
+
+#showListButton:hover{
+    background-color:rgb(117, 5, 5);
+}
+
+/*.altheart {
+    background: url(
+  http://static.indigoimages.ca/2016/shop/113439_img25_twotoneheart.png) no-repeat center;
+    width: 24px;
+    height: 21px;
+    position: relative;
+    display: block;
+  }
+  
+  .heart {
+      position: relative;
+  }
+  .heart:before,
+  .heart:after {
+      position: absolute;
+      content: "";
+      left: 18px;
+      top: 0;
+      width: 18px;
+      height: 30px;
+      background: #8B0000;
+      -moz-border-radius: 20px 50% 0 0;
+      border-radius: 30px 30px 0 0;
+      -webkit-transform: rotate(-45deg);
+          -ms-transform: rotate(-45deg);
+              transform: rotate(-45deg);
+      -webkit-transform-origin: 0 100%;
+          -ms-transform-origin: 0 100%;
+              transform-origin: 0 100%;
+  }
+  .heart:after {
+      left: 0;
+      -webkit-transform: rotate(45deg);
+          -ms-transform: rotate(45deg);
+              transform: rotate(45deg);
+      -webkit-transform-origin: 100% 100%;
+          -ms-transform-origin: 100% 100%;
+              transform-origin :100% 100%;
+  }
+*/
